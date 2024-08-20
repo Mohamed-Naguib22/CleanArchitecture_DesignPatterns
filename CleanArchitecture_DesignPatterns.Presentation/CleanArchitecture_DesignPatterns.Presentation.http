@@ -1,0 +1,6 @@
+@CleanArchitecture_DesignPatterns.Presentation_HostAddress = http://localhost:5161
+
+GET {{CleanArchitecture_DesignPatterns.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
